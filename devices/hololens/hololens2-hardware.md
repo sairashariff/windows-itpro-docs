@@ -144,9 +144,8 @@ As you would for eyeglasses or protective eye-wear, try to keep the HoloLens vis
 
 Don't use any cleaners or solvents on your HoloLens, and don't submerge it in water or apply water directly to it.
 
-To clean the visor, remove any dust by using a camel or goat hair lens brush or a bulb-style lens blower. Lightly moisten the microfiber cloth with a small amount of distilled water, then use it to wipe the visor gently in a circular motion.
-
-Clean the rest of the device, including the headband and device arms, with a lint-free microfiber cloth moistened with mild soap and water. Let your HoloLens dry completely before reuse.
+Remove any dust by gently wiping with a dry lint-free microfiber cloth. Lightly moisten the cloth with a mix of isopropyl alcohol and water, and then gently wipe the surface of the device.
+To clean the brow pad, wipe it with a cloth moistened with water and a mild soap. Let it dry completely.
 
 ![Image that shows how to clean the visor](images/hololens-cleaning-visor.png)
 
